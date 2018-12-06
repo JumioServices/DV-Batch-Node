@@ -1,4 +1,4 @@
-# DocumentVerificationBatch-Node
+# DV-Batch-Node
 
 Command-line Node.js scripts that can be used by prospect merchants to submit documents in batch.
 
